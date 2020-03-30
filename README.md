@@ -1,4 +1,4 @@
-# CS 100 Programming Project
+# CS 100 Programming Project (incomplete)
 Winter Quarter 2020  
 Raoul Larios SID 861229725  
 Parker Colline SID 862152580
