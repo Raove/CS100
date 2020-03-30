@@ -1,0 +1,6 @@
+echo hello && echo goodbye
+echo goodbye ; echo hello
+echo hello || echo goodbye
+echo hello ; echo goodbye
+ls -la && echo what?
+exit

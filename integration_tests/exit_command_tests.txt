@@ -1,0 +1,6 @@
+echo hello && exit
+exit
+echo exit && exit
+ls -d && exit
+ls -d || exit
+exit
