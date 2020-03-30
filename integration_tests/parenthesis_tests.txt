@@ -1,7 +1,0 @@
-(echo hello)
-(echo hello && echo bye)
-(echo a && echo b) || (echo c && echo d)
-(echo hello && echo bye) || echo sick
-echo chillout && (echo a && echo b)
-(echo a && echo b && echo c) || echo d
-exit

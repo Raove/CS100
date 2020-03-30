@@ -1,7 +1,0 @@
-echo hello
-echo goodbye
-ls 
-ls -la
-echo "hello"
-echo "goodbye"
-exit
