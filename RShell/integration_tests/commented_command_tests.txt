@@ -1,0 +1,6 @@
+echo hello my #name is raoul
+echo hel#lo my name is raoul
+echo hello my na#me is raoul
+ls #-la
+git stat#us
+exit
